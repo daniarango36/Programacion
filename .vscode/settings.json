@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./clase1/factorial/src"
+    ]
+}

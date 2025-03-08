@@ -1,0 +1,1 @@
+/Users/danielarango/Documents/Programacion/factorial_rush/target/debug/factorial_rush: /Users/danielarango/Documents/Programacion/factorial_rush/src/lib.rs /Users/danielarango/Documents/Programacion/factorial_rush/src/main.rs
