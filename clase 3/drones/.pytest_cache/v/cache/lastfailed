@@ -1,0 +1,8 @@
+{
+  "tests/test_dron.py::test_forward": true,
+  "tests/test_dron.py::test_turn_left": true,
+  "tests/test_dron.py::test_turn_right": true,
+  "tests/test_dron.py::test_take_off": true,
+  "tests/test_dron.py::test_land": true,
+  "tests/test_dron.py::test_multiple_commands": true
+}
